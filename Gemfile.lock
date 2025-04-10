@@ -1,9 +1,9 @@
 PATH
   remote: .
   specs:
-    rqrcode (3.0.0)
+    rqrcode (3.0.1)
       chunky_png (~> 1.0)
-      rqrcode_core (~> 1.0)
+      rqrcode_core (~> 1.2)
 
 GEM
   remote: https://rubygems.org/

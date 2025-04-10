@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.1] - 2025-04-10
+
+### Added
+
+### Changed
+
+- minor bump `rqrcode_core` to `1.2.0`
+
+### Breaking Change
+
 ## [3.0.0] - 2025-04-10
 
 ### Added
