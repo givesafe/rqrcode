@@ -7,6 +7,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.0] - 2025-04-10
+
+### Added
+
+### Changed
+
+- README updated
+- patch bump `ast` to `2.4.3`
+- minor bump `json` to `2.10.2`
+- patch bump `language_server-protocol` to `3.17.0.4`
+- patch bump `parser` to `3.3.7.4`
+- add `prism-1.4.0`
+- remove `rexml`
+- minor bump `regexp_parser` to `2.10.0`
+- minor bump `stardard` to `1.49.0`
+
+### Breaking Change
+
+
 ## [2.2.0] - 2023-06-17
 
 ### Changed
