@@ -8,7 +8,7 @@ GIT
 PATH
   remote: .
   specs:
-    rqrcode (3.0.2)
+    rqrcode (3.0.2.1)
       chunky_png (~> 1.0)
 
 GEM
