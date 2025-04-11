@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.2] - 2025-04-11
+
+### Added
+
+### Changed
+
+- using forked version of `rqrcode_core` to `1.2.0` since the main gem still uses rexml
+
+### Breaking Change
+
 ## [3.0.1] - 2025-04-10
 
 ### Added

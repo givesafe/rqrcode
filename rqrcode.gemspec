@@ -15,11 +15,11 @@ Gem::Specification.new do |spec|
     interface allows you to create QR Code data structures
     and then render them in the way you choose.
   EOF
-  spec.homepage = "https://github.com/whomwah/rqrcode"
+  spec.homepage = "https://github.com/givesafe/rqrcode"
   spec.license = "MIT"
   spec.metadata = {
-    "bug_tracker_uri" => "https://github.com/whomwah/rqrcode/issues",
-    "changelog_uri" => "https://github.com/whomwah/rqrcode/blob/master/CHANGELOG.md"
+    "bug_tracker_uri" => "https://github.com/givesafe/rqrcode/issues",
+    "changelog_uri" => "https://github.com/givesafe/rqrcode/blob/master/CHANGELOG.md"
   }
 
   spec.files = Dir.chdir(File.expand_path("..", __FILE__)) do
@@ -30,10 +30,8 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.required_ruby_version = ">= 3.2"
-  spec.add_dependency "rqrcode_core", "~> 1.2"
   spec.add_dependency "chunky_png", "~> 1.0"
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "rspec", "~> 3.5"
-  spec.add_development_dependency "standard", "~> 1.49"
 end
